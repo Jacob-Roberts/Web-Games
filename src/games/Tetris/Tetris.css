@@ -1,0 +1,35 @@
+/* Main styles */
+
+/* Default (empty) board column */
+.col-0 {
+  background-color: #020202;
+}
+
+/* Colors for tiles */
+.col-1 {
+  background-color: #f21620;
+}
+
+.col-2 {
+  background-color: #10ac84;
+}
+
+.col-3 {
+  background-color: #5f27cd;
+}
+
+.col-4 {
+  background-color: #d925cf;
+}
+
+.col-5 {
+  background-color: #48dbfb;
+}
+
+.col-6 {
+  background-color: #fd4964;
+}
+
+.col-7 {
+  background-color: #72fa4e;
+}
